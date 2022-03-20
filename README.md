@@ -1,0 +1,1 @@
+wpisuje pierwsza linie w pliku readme
